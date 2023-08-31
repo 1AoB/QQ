@@ -1,5 +1,5 @@
 # QQ
-使用Qt编写一个简单的企业QQ项目
+使用Qt编写一个简单的企业QQ项目(qt 5.14.1->msvc2017_64 + vs2019)
 
 客户端：
 ![C3EHS{TT~% {}U}A _5%UDH](https://github.com/1AoB/QQ/assets/78208268/cbebdcaa-4d21-42fe-9260-322c21e0dbec)
